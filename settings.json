@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "RoviGamingXD_128.aternos.me",
-    "port": 52966,
-    "version": "",
+    "ip": "KnightHeart.aternos.me:50084",
+    "port": 50084,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
